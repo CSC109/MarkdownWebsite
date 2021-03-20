@@ -20,6 +20,10 @@ Throughout this site you can see relative links being used to go to different pa
 
 Click [here](./) to be taken to the index page.
 
+[Go to the Headings page](./headings)
+
+Click [here](./headings) to be taken to the headings page.
+
 ## Open Link In New Tab
 
 [www.google.com](www.google.com){:target="_blank"}
