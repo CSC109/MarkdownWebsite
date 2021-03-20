@@ -5,6 +5,7 @@
 Plain HTML, CSS, and JavaScript can be used anywhere, since markdown gets converted to HTML anyway. `.html` files can be used instead of `.md` if desired, but there is no real benefit to doing this. You may also have separate style sheets and script files just as you would with a regular website, but for these examples everything will be inline. 
 
 ## Colored Text
+<div>
 
 <p style="color:green;">This text is green.</p>
 
@@ -14,7 +15,7 @@ Plain HTML, CSS, and JavaScript can be used anywhere, since markdown gets conver
 
 <p style="background:black;color:white;">This text's background is black and it's text color is white.</p>
 
-<div></div>
+</div>
 
 ## Specify Font
 
@@ -80,4 +81,5 @@ function increaseByOne() {
     const increasingNumberTag = document.getElementById("increasing-number");
     const number = parseInt(increasingNumberTag.innerHTML, 10);
     number.innerHTML = number + 1;
+}
 </script>
