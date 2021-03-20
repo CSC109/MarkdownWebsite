@@ -1,6 +1,8 @@
 [Home](./index.md)
 
-# Without Syntax Highlighting
+# Code Blocks
+
+## Without Syntax Highlighting
 
 `One line`
 
@@ -9,11 +11,11 @@ multiple
 lines
 ```
 
-# With Syntax Highlighting
+## With Syntax Highlighting
 
 Full list of supported languages [here](https://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/).
 
-## Java
+### Java
 
 ```java
 public static void main(String[] args) {
@@ -22,28 +24,28 @@ public static void main(String[] args) {
 }
 ```
 
-## Scala
+### Scala
 
 ```scala
 val message = "Hello world"
 println(message)
 ```
 
-## Python
+### Python
 
 ```python
 message = 'Hello world'
 print(message)
 ```
 
-## JavaScript
+### JavaScript
 
 ```javascript
 const message = 'Hello world'
 console.log(message)
 ```
 
-## HTML
+### HTML
 
 ```html
 <div>
@@ -51,7 +53,7 @@ console.log(message)
 </div>
 ```
 
-## JSON
+### JSON
 
 ```json
 {
@@ -59,7 +61,7 @@ console.log(message)
 }
 ```
 
-## C#
+### C#
 
 ```csharp
 public static void main(string[] args) {

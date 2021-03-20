@@ -1,6 +1,8 @@
 [Home](./index.md)
 
-# Numbered lists
+# Lists
+
+## Numbered lists
 
 1. Item 1
 1. Item 2
@@ -15,7 +17,7 @@
     1. Item 2.75
 1. Item 3
 
-# Bulleted lists
+## Bulleted lists
 
 - Item 1
 - Item 2

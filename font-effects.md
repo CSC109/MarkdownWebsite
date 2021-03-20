@@ -1,30 +1,32 @@
 [Home](./index.md)
 
-# Bold
+# Font Effects
+
+## Bold
 
 **This text is bold**
 
 Only **some** of this text is **bold**
 
-# Italic
+## Italic
 
 *This text is italic*
 
 Only *some* of this text is *italic*
 
-# Bold and Italic
+## Bold and Italic
 
 ***This text is bold and italic***
 
 Only ***some*** of this text is ***bold and italic***
 
-# Strikethrough
+## Strikethrough
 
 ~~This text is strikethrough~~
 
 Only ~~some~~ of this text is ~~strikethrough~~
 
-# Blockquote
+## Blockquote
 
 > This text is blockquote
 

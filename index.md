@@ -12,3 +12,5 @@ The below sections will show some commonly used markdown features:
 - [Font Effects](./font-effects.md)
 - [Lists](./lists.md)
 - [Code Blocks](./code-blocks.md)
+- [Links](./links.md)
+- [Emojis](./emojis.md)
