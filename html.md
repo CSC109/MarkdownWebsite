@@ -55,7 +55,9 @@ An image's width and height will automatically scale together unless both are se
 
 ## Programming Logic
 
-This is where JavaScript comes in!
+This is where JavaScript comes in! If you are not familiar with this, I don't recommend diving into it here unless you are feeling really adventurous...it's a PITA.
+
+### Number Counter Example
 
 <p id="increasing-number">0</p>
 <button onclick="increaseByOne()" style="color:white;background:black">Increase number by 1</button>
@@ -65,5 +67,28 @@ function increaseByOne() {
     const increasingNumberTag = document.getElementById("increasing-number");
     const number = parseInt(increasingNumberTag.innerHTML, 10);
     increasingNumberTag.innerHTML = number + 1;
+}
+</script>
+
+### Alert Example
+
+<button onclick="createAlert()" style="color:rgb(2, 10, 50);background:rgb(10, 130, 128)">Give me a compliment!</button>
+
+<script>
+function createAlert() {
+    alert("You are a great person!");
+}
+</script>
+
+### Disappearing and Reappearing Example
+
+<img id="ghost" style="display:block" src="./assets/images/ghost.png" alt="Ghost">
+<script>
+setInterval(() => toggleVisibility(), 1000);
+function toggleVisibility() {
+    const imageTag = document.getElementById("ghost");
+    imageTag.style.display = imageTag.style.display === "block"
+        ? "none"
+        : "block";
 }
 </script>
