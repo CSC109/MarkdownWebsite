@@ -32,15 +32,15 @@ The second is at 50% its original size.
 The third is explicitly set to be 80 pixels wide.
 The fourth is explicitly set to be 80 pixels wide and 40 pixels tall.
 
-<img src="./assets/images/octocat.png" alt="Octocat" width="20%">
+<div>
+    <img src="./assets/images/octocat.png" alt="Octocat" width="20%">
 
-<img src="./assets/images/octocat.png" alt="Octocat" width="50%">
+    <img src="./assets/images/octocat.png" alt="Octocat" width="50%">
 
-<img src="./assets/images/octocat.png" alt="Octocat" width="80px">
+    <img src="./assets/images/octocat.png" alt="Octocat" width="80px">
 
-<img src="./assets/images/octocat.png" alt="Octocat" width="80px" height="40px">
-
-<br>
+    <img src="./assets/images/octocat.png" alt="Octocat" width="80px" height="40px">
+</div>
 
 An image's width and height will automatically scale together unless both are set.
 
