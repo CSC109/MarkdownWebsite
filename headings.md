@@ -1,5 +1,9 @@
 [Home](./index.md)
 
+# Headings
+
+There are six levels of headings.
+
 # Heading 1
 
 ## Heading 2
