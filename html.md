@@ -82,7 +82,7 @@ function createAlert() {
 
 ### Disappearing and Reappearing Example
 
-<img id="ghost" style="visibility :visible" src="./assets/images/ghost.png" alt="Ghost">
+<img id="ghost" style="visibility:visible;" src="./assets/images/ghost.png" alt="Ghost">
 <script>
 setInterval(toggleVisibility, 1000);
 function toggleVisibility() {
