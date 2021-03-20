@@ -84,7 +84,7 @@ function createAlert() {
 
 <img id="ghost" style="display:block" src="./assets/images/ghost.png" alt="Ghost">
 <script>
-setInterval(() => toggleVisibility(), 1000);
+setInterval(toggleVisibility, 1000);
 function toggleVisibility() {
     const imageTag = document.getElementById("ghost");
     imageTag.style.display = imageTag.style.display === "block"
