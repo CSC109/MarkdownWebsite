@@ -1,4 +1,4 @@
-[Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/headings.md)
+[Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/headings.md){:target="_blank"}
 
 [Home](./index.md)
 

@@ -1,4 +1,4 @@
-[Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/links.md)
+[Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/links.md){:target="_blank"}
 
 [Home](./index.md)
 
@@ -19,3 +19,11 @@ Throughout this site you can see relative links being used to go to different pa
 [Go to the Index page](./index.md)
 
 Click [here](./index.md) to be taken to the index page.
+
+## Open Link In New Tab
+
+[www.google.com](www.google.com){:target="_blank"}
+
+[Google](www.google.com){:target="_blank"}
+
+Click [here](www.google.com){:target="_blank"} to go to Google in a new tab.

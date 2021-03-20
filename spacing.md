@@ -1,4 +1,4 @@
-[Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/spacing.md)
+[Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/spacing.md){:target="_blank"}
 
 [Home](./index.md)
 
