@@ -2,3 +2,4 @@ name: MarkdownWebsite
 title: null
 plugins:
   - jemoji
+markdown: CommonMarkGhPages
