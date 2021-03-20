@@ -47,7 +47,7 @@ An image's width and height will automatically scale together unless both are se
 
 <button style="color:pink;background:purple" >I'm a pink button</button>
 
-<button target="_blank" onclick="location.href='https://google.com';">Go to Google</button>
+<button onclick="location.href='https://google.com';">Go to Google</button>
 
 ## Styled Links
 
@@ -82,13 +82,13 @@ function createAlert() {
 
 ### Disappearing and Reappearing Example
 
-<img id="ghost" style="display:block" src="./assets/images/ghost.png" alt="Ghost">
+<img id="ghost" style="visibility :visible" src="./assets/images/ghost.png" alt="Ghost">
 <script>
 setInterval(toggleVisibility, 1000);
 function toggleVisibility() {
     const imageTag = document.getElementById("ghost");
-    imageTag.style.display = imageTag.style.display === "block"
-        ? "none"
-        : "block";
+    imageTag.style.visibility  = imageTag.style.visibility === "visible"
+        ? "hidden"
+        : "visible";
 }
 </script>
