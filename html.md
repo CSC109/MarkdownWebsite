@@ -1,6 +1,6 @@
 [Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/html.md){:target="_blank"}
 
-[Home](./index.md)
+[Home](./index)
 
 # HTML
 

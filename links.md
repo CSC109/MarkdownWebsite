@@ -1,6 +1,6 @@
 [Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/links.md){:target="_blank"}
 
-[Home](./index.md)
+[Home](./index)
 
 # Links
 
@@ -16,9 +16,9 @@ Click [here](www.google.com) to go to Google.
 
 Throughout this site you can see relative links being used to go to different pages of the website. It's the same syntax as above with external links, but instead referencing a specific file in this project.
 
-[Go to the Index page](./index.md)
+[Go to the Index page](./index)
 
-Click [here](./index.md) to be taken to the index page.
+Click [here](./index) to be taken to the index page.
 
 ## Open Link In New Tab
 
