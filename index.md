@@ -4,5 +4,5 @@
 This is an example website using markdown with GitHub pages.
 
 <div>
-    <p>Hi</p>
+    <p style="color:green;">Hi</p>
 </div>
