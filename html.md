@@ -40,13 +40,17 @@ The fourth is explicitly set to be 80 pixels wide and 40 pixels tall.
 
 <img src="./assets/images/octocat.png" alt="Octocat" width="80px" height="40px">
 
+<br>
+
 An image's width and height will automatically scale together unless both are set.
 
 ## Button
 
 <button>I'm a button</button>
 
-<button style="color:pink;background:purple">I'm a pink button</button>
+<button style="color:pink;background:purple" >I'm a pink button</button>
+
+<input type="button" onclick="location.href='https://google.com';" value="Go to Google" />
 
 ## Styled Links
 
