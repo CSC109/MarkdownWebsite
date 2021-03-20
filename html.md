@@ -5,8 +5,6 @@
 Plain HTML, CSS, and JavaScript can be used anywhere, since markdown gets converted to HTML anyway. `.html` files can be used instead of `.md` if desired, but there is no real benefit to doing this. You may also have separate style sheets and script files just as you would with a regular website, but for these examples everything will be inline. 
 
 ## Colored Text
-<div>
-
 <p style="color:green;">This text is green.</p>
 
 <p>Only <span style="color:purple;">some</span> of this text is <span style="color:purple;">purple</span>.</p>
@@ -15,21 +13,15 @@ Plain HTML, CSS, and JavaScript can be used anywhere, since markdown gets conver
 
 <p style="background:black;color:white;">This text's background is black and it's text color is white.</p>
 
-</div>
-
 ## Specify Font
 
 <p style="font-family:times new roman;">This text is using Times New Roman font.</p>
 
 <p style="font-family:serif;color:red">This text is using Serif font and is colored red.</p>
 
-<div></div>
-
 ## Specify Font Size
 
 <p style="font-size:80px;">Hello!</p>
-
-<div></div>
 
 ## Image Size
 
@@ -47,11 +39,7 @@ The fourth is explicitly set to be 80 pixels wide and 40 pixels tall.
 
 <img src="./assets/images/octocat.png" alt="Octocat" width="80px" height="40px">
 
-<div></div>
-
 An image's width and height will automatically scale together unless both are set.
-
-<div></div>
 
 ## Button
 
@@ -59,15 +47,11 @@ An image's width and height will automatically scale together unless both are se
 
 <button style="color:pink;background:purple" >I'm a pink button</button>
 
-<button onclick="location.href='https://google.com';">Go to Google</button>
-
-<div></div>
+<button target="_blank" onclick="location.href='https://google.com';">Go to Google</button>
 
 ## Styled Links
 
 <a href="./index.md" style="color:green;">Click this green link to go to the index page</a>
-
-<div></div>
 
 ## Programming Logic
 
@@ -80,6 +64,6 @@ This is where JavaScript comes in!
 function increaseByOne() {
     const increasingNumberTag = document.getElementById("increasing-number");
     const number = parseInt(increasingNumberTag.innerHTML, 10);
-    number.innerHTML = number + 1;
+    increasingNumberTag.innerHTML = number + 1;
 }
 </script>
