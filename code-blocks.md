@@ -57,7 +57,7 @@ console.log(message)
 
 ```json
 {
-    "messages": "Hello world"
+    "message": "Hello world"
 }
 ```
 
