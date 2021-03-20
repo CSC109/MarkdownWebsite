@@ -15,3 +15,4 @@ The below sections will show some commonly used markdown features:
 - [Links](./links.md)
 - [Images](./images.md)
 - [Emojis](./emojis.md)
+- [Tables](./tables.md)
