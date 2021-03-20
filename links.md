@@ -4,7 +4,7 @@
 
 ## External Links
 
-www.google.com
+[www.google.com](www.google.com)
 
 [Google](www.google.com)
 
