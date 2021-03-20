@@ -6,11 +6,11 @@
 
 ## External Links
 
-[www.google.com](www.google.com)
+[www.google.com](https://www.google.com)
 
-[Google](www.google.com)
+[Google](https://www.google.com)
 
-Click [here](www.google.com) to go to Google.
+Click [here](https://www.google.com) to go to Google.
 
 ## Relative Links
 
@@ -26,8 +26,8 @@ Click [here](./headings) to be taken to the headings page.
 
 ## Open Link In New Tab
 
-[www.google.com](www.google.com){:target="_blank"}
+[www.google.com](https://www.google.com){:target="_blank"}
 
-[Google](www.google.com){:target="_blank"}
+[Google](https://www.google.com){:target="_blank"}
 
-Click [here](www.google.com){:target="_blank"} to go to Google in a new tab.
+Click [here](https://www.google.com){:target="_blank"} to go to Google in a new tab.
