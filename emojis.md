@@ -8,7 +8,7 @@ Make sure to have the jemoji plugin applied in your `_config.yml` file!
 
 Below are my most used emojis:
 
-:upside_down_face:
+# :upside_down_face:
 
 :grimacing:
 
