@@ -1,6 +1,6 @@
 [Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/html.md){:target="_blank"}
 
-[Home](./index)
+[Home](./)
 
 # HTML
 
@@ -53,7 +53,7 @@ An image's width and height will automatically scale together unless both are se
 
 ## Styled Links
 
-<a href="./index.md" style="color:green;">Click this green link to go to the index page</a>
+<a href="./" style="color:green;">Click this green link to go to the index page</a>
 
 ## Programming Logic
 

@@ -2,7 +2,7 @@
 
 [Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/page-background-color.md){:target="_blank"}
 
-[Home](./index)
+[Home](./)
 
 # Page Background Color
 

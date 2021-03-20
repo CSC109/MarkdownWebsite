@@ -1,6 +1,6 @@
 [Page Source Code](https://github.com/CSC109/MarkdownWebsite/blob/master/font-effects.md){:target="_blank"}
 
-[Home](./index)
+[Home](./)
 
 # Font Effects
 
