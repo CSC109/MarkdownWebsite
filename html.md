@@ -14,15 +14,21 @@ Plain HTML, CSS, and JavaScript can be used anywhere, since markdown gets conver
 
 <p style="background:black;color:white;">This text's background is black and it's text color is white.</p>
 
+<div></div>
+
 ## Specify Font
 
 <p style="font-family:times new roman;">This text is using Times New Roman font.</p>
 
 <p style="font-family:serif;color:red">This text is using Serif font and is colored red.</p>
 
+<div></div>
+
 ## Specify Font Size
 
 <p style="font-size:80px;">Hello!</p>
+
+<div></div>
 
 ## Image Size
 
@@ -32,17 +38,19 @@ The second is at 50% its original size.
 The third is explicitly set to be 80 pixels wide.
 The fourth is explicitly set to be 80 pixels wide and 40 pixels tall.
 
-<div>
-    <img src="./assets/images/octocat.png" alt="Octocat" width="20%">
+<img src="./assets/images/octocat.png" alt="Octocat" width="20%">
 
-    <img src="./assets/images/octocat.png" alt="Octocat" width="50%">
+<img src="./assets/images/octocat.png" alt="Octocat" width="50%">
 
-    <img src="./assets/images/octocat.png" alt="Octocat" width="80px">
+<img src="./assets/images/octocat.png" alt="Octocat" width="80px">
 
-    <img src="./assets/images/octocat.png" alt="Octocat" width="80px" height="40px">
-</div>
+<img src="./assets/images/octocat.png" alt="Octocat" width="80px" height="40px">
+
+<div></div>
 
 An image's width and height will automatically scale together unless both are set.
+
+<div></div>
 
 ## Button
 
@@ -52,9 +60,13 @@ An image's width and height will automatically scale together unless both are se
 
 <button onclick="location.href='https://google.com';">Go to Google</button>
 
+<div></div>
+
 ## Styled Links
 
 <a href="./index.md" style="color:green;">Click this green link to go to the index page</a>
+
+<div></div>
 
 ## Programming Logic
 
@@ -67,6 +79,5 @@ This is where JavaScript comes in!
 function increaseByOne() {
     const increasingNumberTag = document.getElementById("increasing-number");
     const number = parseInt(increasingNumberTag.innerHTML, 10);
-    number.innerHTML = number++;
-}
+    number.innerHTML = number + 1;
 </script>
