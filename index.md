@@ -1,9 +1,13 @@
 # Markdown Website
 
+[GitHub Repo](https://github.com/CSC109/MarkdownWebsite)
+
 ## What is this?
-This is an example website using markdown with GitHub pages.
+
+This is an example website using markdown with GitHub pages to be used as a learning tool. You can look up how everything was made in the GitHub repo linked above. I recommend hitting the **Raw** button when looking at a `.md` file in GitHub to see the source text rather than the rendered text.
 
 ## Markdown syntax
+
 Comprehensive documentation for GitHub supported markdown syntax can be found [here](https://www.markdownguide.org/tools/github-pages/).
 
 The below sections will show some commonly used markdown features:
