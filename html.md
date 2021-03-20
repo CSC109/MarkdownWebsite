@@ -11,7 +11,7 @@ Plain HTML, CSS, and JavaScript can be used anywhere, since markdown gets conver
 
 <p style="background:green;">This text's background is green.</p>
 
-<p style="background:black;color:white;">This text's background is black and it's text color is white.</p>
+<p style="background:black;color:white;">This text's background is black and its text color is white.</p>
 
 ## Specify Font
 
