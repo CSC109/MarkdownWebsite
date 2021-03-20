@@ -9,4 +9,4 @@ Comprehensive documentation for GitHub supported markdown syntax can be found [h
 The below sections will show some commonly used markdown features:
 
 - [Headings](./headings.md)
-- [Font Emphasis](./font-emphasis.md)
+- [Font Emphasis](./font-effects.md)
