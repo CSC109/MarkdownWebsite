@@ -1,4 +1,4 @@
-<body style="background-color:navy;"></body>
+<body style="background-color:aqua;"></body>
 
 [Home](./index.md)
 
