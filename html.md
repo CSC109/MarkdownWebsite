@@ -50,18 +50,18 @@ An image's width and height will automatically scale together unless both are se
 
 <button style="color:pink;background:purple" >I'm a pink button</button>
 
-<input type="button" onclick="location.href='https://google.com';" value="Go to Google" />
+<button onclick="location.href='https://google.com';">Go to Google</button>
 
 ## Styled Links
 
-<a href="./index.md" style="color:brown;">Click here to go to the index page</a>
+<a href="./index.md" style="color:green;">Click this green link to go to the index page</a>
 
 ## Programming Logic
 
 This is where JavaScript comes in!
 
 <p id="increasing-number">0</p>
-<button onclick="increaseByOne" style="color:white;background:black">Increase number by 1</button>
+<button onclick="increaseByOne()" style="color:white;background:black">Increase number by 1</button>
 
 <script>
 function increaseByOne() {
