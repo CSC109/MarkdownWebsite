@@ -9,7 +9,7 @@ Plain HTML, CSS, and JavaScript can be used anywhere, since markdown gets conver
 
 <p style="color:green;">This text is green.</p>
 
-<p>Only <span style="color:purple;">some</span> of this text is <span style="color:purple;">purple.</span>
+<p>Only <span style="color:purple;">some</span> of this text is <span style="color:purple;">purple</span>.</p>
 
 <p style="background:green;">This text's background is green.</p>
 
