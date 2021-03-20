@@ -2,7 +2,7 @@
 
 # HTML
 
-Plain HTML, CSS, and JavaScript can be used anywhere, since markdown gets converted to HTML anyway. `.html` files can be used instead of `.md` if desired, but there is no real benefit to doing this. You may also have separate style sheets and script files just as you would with a regular website, but for these examples everything will be inline. 
+Plain HTML, CSS, and JavaScript can be used anywhere, since markdown gets converted to HTML anyway. `.html` files can be used instead of `.md` if desired. You may also have separate style sheets and script files just as you would with a regular website, but for these examples everything will be inline. 
 
 ## Colored Text
 <p style="color:green;">This text is green.</p>
