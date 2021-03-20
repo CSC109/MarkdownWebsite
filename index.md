@@ -11,3 +11,4 @@ The below sections will show some commonly used markdown features:
 - [Headings](./headings.md)
 - [Font Effects](./font-effects.md)
 - [Lists](./lists.md)
+- [Code Blocks](./code-blocks.md)
