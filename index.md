@@ -3,6 +3,4 @@
 ## What is this?
 This is an example website using markdown with GitHub pages.
 
-<div>
-    <p style="color:green;">Hi</p>
-</div>
+<p style="color:purple;">Hello</p>
