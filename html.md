@@ -16,7 +16,7 @@ Only <span style="color:purple;">some</span> of this text is <span style="color:
 <p style="background:black;color:white;">This text's background is black and its text color is white.</p>
 
 <p style="color:teal;">
-Anyting I put here is teal.
+Anything I put here is teal.
 All of it.
 Teal.
 So much Teal.
